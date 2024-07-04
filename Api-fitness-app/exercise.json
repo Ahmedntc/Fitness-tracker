@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Incline barbell press",
+    "reps": 10,
+    "sets": 2,
+    "weight": 120,
+    "date": "2024-05-27"
+  },
+  {
+    "name": "Squats",
+    "reps": 12,
+    "sets": 3,
+    "weight": 120,
+    "date": "2024-05-27"
+  },
+  {
+    "name": "Leg Press",
+    "reps": 12,
+    "sets": 2,
+    "weight": 400,
+    "date": "2024-05-27"
+  },
+  {
+    "name": "aa",
+    "reps": 2,
+    "sets": 2,
+    "weight": 2,
+    "date": "2024-05-27"
+  },
+  {
+    "name": "Agachamento",
+    "reps": 12,
+    "sets": 3,
+    "weight": 120,
+    "date": "2024-05-29"
+  },
+  {
+    "name": "asda",
+    "reps": 12,
+    "sets": 3,
+    "weight": 12,
+    "date": "2024-05-29"
+  },
+  {
+    "name": "supino",
+    "reps": 12,
+    "sets": 3,
+    "weight": 120,
+    "date": "2024-05-29"
+  },
+  {
+    "name": "aaa",
+    "reps": 12,
+    "sets": 3,
+    "weight": 120,
+    "date": "2024-05-19"
+  }
+]

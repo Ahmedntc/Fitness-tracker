@@ -1,0 +1,3 @@
+GET http://localhost:8080/exercises/:2024-05-27
+Content-Type: application/json
+
